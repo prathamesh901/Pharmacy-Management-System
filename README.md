@@ -6,12 +6,12 @@
    
    
 
-<div> <img src="https://github.com/tech-jamara/PharmacyManagementSystem/blob/main/screenshot/Admin%20Login.png" width="400" height="200" />
-<img src="https://github.com/tech-jamara/PharmacyManagementSystem/blob/main/screenshot/Pharmacist.png" width="400" height="200" />
+<div> <img src="https://github.com/prathamesh901/Pharmacy-Management-System/blob/main/patient_login.jpeg" width="400" height="200" />
+<img src="https://github.com/prathamesh901/Pharmacy-Management-System/blob/main/Pharmacist_login.jpeg" width="400" height="200" />
 </div>
-<div> <img src="https://github.com/tech-jamara/PharmacyManagementSystem/blob/main/screenshot/Doctor%20Login.png" width="400" height="200" />
-<img src="https://github.com/tech-jamara/PharmacyManagementSystem/blob/main/screenshot/Receptionist%20Login.png" width="400" height="200" />
-    <img src="https://github.com/tech-jamara/PharmacyManagementSystem/blob/main/screenshot/Patient%20login.png" width="400" height="200" />
+<div> <img src="https://github.com/prathamesh901/Pharmacy-Management-System/blob/main/doctor_login.jpeg" width="400" height="200" />
+<img src="https://github.com/prathamesh901/Pharmacy-Management-System/blob/main/receptionist_login.jpeg" width="400" height="200" />
+   
 </div>
 
 ## Run these Commads
